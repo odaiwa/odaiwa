@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odaiwa
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Operation Systems, DataBases and Advanced Algorithms
+- 🌱 I’m currently learning NodeJs and Angularjs
 - 📫 you can reach me on my email : info@odaiwa.com
 
 <!---
