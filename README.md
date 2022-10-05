@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odaiwa
-- 🌱 Full Stack Developer at Sizmek by Amazon
-- 👀 I’m interested in Software Development and Full Stack development
+- 🌱 Software Engineer
+- 👀 Challenges
 - 📫 you can reach me on my email : odaiwa12@gmail.com
 - 🕸 my personal website : https://odaisweb.web.app
 
