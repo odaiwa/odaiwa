@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @odaiwa
+- 👋 Hi there, I’m @odaiwa
 - 🌱 Software Engineer
 - 👩‍💻 .Net and C# Developer
 - 👀 Challenges
