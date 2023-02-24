@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @odaiwa
 - 🌱 Software Engineer
+- 👩‍💻 .Net and C# Developer
 - 👀 Challenges
 - 📫 you can reach me on my email : odaiwa12@gmail.com
 - 🕸 my personal website : https://odaisweb.web.app
