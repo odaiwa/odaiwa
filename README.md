@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @odaiwa
-- 🌱 Software Engineer @HaatDelivery
+- 🌱 Software Engineer @HaatDelivery Make Food Delivery effortless for anyone anywhere.
 - 👨‍💻 C# and .Net Developer
 - 👀 Challenges
 - 📫 you can reach me on my email : odaiwa12@gmail.com
