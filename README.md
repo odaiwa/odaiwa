@@ -6,10 +6,8 @@
 - 🕸 my personal website : https://odaisweb.web.app
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Odai+Wattad;Welcome+to+My+Page!;Software+Engineer;Backend+Engineer;.Net+Developer)](https://git.io/typing-svg)
-<!---
-odaiwa/odaiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 ## Technologies and Tools :
 <p align="center"> 
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="40" height="40"/> </a>
