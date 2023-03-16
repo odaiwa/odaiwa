@@ -28,10 +28,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=odaiwa&show_icons=true)](https://github.com/odaiwa)
 
 
-
+<!--
   <a width="45%" align="right" href="https://github.com/odaiwa/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaiwa&layout=compact&theme=vue&hide_border=true" />
   </a>
-  
+  -->
   <br>
   <p href="https://github.com/odaiwa/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/odaiwa"></p>
