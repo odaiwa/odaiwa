@@ -35,4 +35,4 @@
   </a>
   -->
   <br>
-  <p href="https://github.com/odaiwa/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/odaiwa"></p>
+<!--   <p href="https://github.com/odaiwa/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/odaiwa"></p> -->
