@@ -2,7 +2,7 @@
 - 🌱 Software Engineer @HaatDelivery Make Food Delivery effortless for anyone anywhere.
 - 👨‍💻 C# and .Net Developer
 - 👀 Challenges
-- git is my PlayStation
+- 🎮 git is my PlayStation 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A46&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Odai;Welcome+to+My+Page!;Software+Engineer;Backend+Engineer;C+Sharp+and+.Net+Developer)
   <br>
